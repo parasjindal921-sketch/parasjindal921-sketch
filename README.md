@@ -1,143 +1,313 @@
-<!-- Premium GitHub profile README | Paras Jindal -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,50:0E7490,100:6366F1&text=PARAS%20JINDAL&fontColor=FFFFFF&fontSize=52&fontAlignY=37&desc=AI%20%26%20ML%20%E2%80%A2%20FRONTEND%20DEVELOPMENT%20%E2%80%A2%20CREATIVE%20TECH&descAlignY=58&descSize=15&animation=fadeIn" alt="Paras Jindal profile banner" />
+<!-- ANIMATED HEADER -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Hello+World!+I'm+Paras+%F0%9F%91%8B;BCA+Artificial+Intelligence+%26+ML+Student;Frontend+Web+Development+Intern;Building+VoltMart+%E2%9A%A1+%26+IoT+Projects+%F0%9F%8C%B2;Turning+Ideas+Into+Code+%F0%9F%9A%80" alt="Animated developer introduction" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=230&section=header&text=PARAS%20JINDAL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Enthusiast%20%7C%20Frontend%20Developer&descAlignY=55&descSize=18" width="100%" alt="Paras Jindal Header"/>
 
+<!-- TYPING ANIMATION -->
 
-<a href="https://github.com/parasjindal921-sketch?tab=followers"><img src="https://img.shields.io/github/followers/parasjindal921-sketch?style=for-the-badge&label=FOLLOWERS&logo=github&color=0891B2&labelColor=0F172A" alt="GitHub followers" /></a>
-<a href="https://github.com/parasjindal921-sketch?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-EXPLORE-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" alt="Explore projects" /></a>
-<img src="https://komarev.com/ghpvc/?username=parasjindal921-sketch&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+Paras+Jindal;BCA+Artificial+Intelligence+Student;Frontend+Web+Developer;Passionate+About+AI+%26+ML;Building+Innovative+Tech+Projects" alt="Typing Animation"/>
 
-Developer in progress   •   Always learning   •   Building useful things
+<br/>
+
+<!-- SOCIAL BADGES -->
+
+<a href="https://github.com/parasjindal921-sketch">
+<img src="https://img.shields.io/github/followers/parasjindal921-sketch?label=Followers&style=for-the-badge&color=00d9ff&labelColor=0D1117" alt="GitHub Followers"/>
+</a>
+
+<a href="https://github.com/parasjindal921-sketch?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Explore-7B2FFF?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=parasjindal921-sketch&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
+
 </div>
 
-👨‍🚀 About Me
+---
+
+## 👨‍💻 About Me
+
+```javascript
 const paras = {
-  education: "BCA — Artificial Intelligence & Machine Learning",
-  university: "Haridwar University",
-  internship: "Frontend Web Development @ Mariox Software",
-  interests: ["Web Development", "AI / ML", "IoT", "UI Design"],
-  currentlyLearning: ["Java", "Python", "Machine Learning"],
-  mindset: "Learn. Build. Improve. Repeat."
+    name: "Paras Jindal",
+
+    education: "BCA - Artificial Intelligence & Machine Learning",
+
+    university: "Haridwar University",
+
+    internship: {
+        company: "Mariox Software",
+        role: "Frontend Web Development Intern",
+        project: "VoltMart"
+    },
+
+    interests: [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Web Development",
+        "Internet of Things",
+        "Software Development"
+    ],
+
+    currentlyLearning: [
+        "Java",
+        "Python",
+        "Machine Learning"
+    ],
+
+    motto: "Learn. Build. Innovate. Repeat."
 };
-- 🎓 Pursuing BCA in Artificial Intelligence & Machine Learning at Haridwar University.
-- 💼 Completed a Frontend Web Development internship at Mariox Software.
-- ⚡ Built VoltMart, an electronics shopping and rapid-delivery website concept, for my internship project.
-- 🌲 Exploring connected devices through an ESP32-based forest-fire detection and suppression project.
-- 🎯 Focused on improving my development skills through real projects.
-💼 Internship Spotlight
+```
+
+🎓 Pursuing **BCA in Artificial Intelligence & Machine Learning** at Haridwar University.
+
+💻 Passionate about **Frontend Development, AI, and emerging technologies**.
+
+🚀 Developed **VoltMart**, an electronics shopping and rapid-delivery website concept.
+
+🌲 Exploring IoT through an **ESP32-based Smart Forest Fire Suppression System**.
+
+🎯 Focused on improving my development skills through practical projects.
+
+---
+
+## 💼 Professional Experience
+
+<div align="center">
+
+### 🚀 Frontend Web Development Intern
+
+**🏢 Mariox Software**
+
+**💻 Domain: Web Development**
+
+</div>
+
+During my internship at Mariox Software, I gained practical experience in frontend web development and worked on designing responsive, user-friendly web interfaces.
+
+### 🛠️ Skills & Experience
+
+- 🌐 Frontend development using HTML, CSS, and JavaScript
+- 🎨 Designing responsive website layouts
+- 📱 Creating mobile-friendly interfaces
+- 🛒 Developing e-commerce website concepts
+- 💻 Working with Visual Studio Code
+- 🚀 Building the VoltMart internship project
+
+### 🏆 Internship Project: VoltMart
+
+**VoltMart — Fast Electronics Delivery Website**
+
+An electronics e-commerce project designed around convenient shopping and rapid delivery.
+
+**⚡ Project Highlights**
+
+- 30-minute delivery concept for small electronics
+- 1-hour delivery concept for large appliances
+- Product categories and browsing
+- Shopping cart interface
+- Responsive website layout
+- User-friendly shopping experience
+
+**Technologies Used**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github" alt="Internship Technologies"/>
+
+> Note: Delivery times represent the VoltMart project concept, not a live delivery guarantee.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js" alt="Programming Languages"/>
+
+<br/><br/>
+
+### 🌐 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend Technologies"/>
+
+<br/><br/>
+
+### ⚙️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,figma" alt="Development Tools"/>
+
+<br/><br/>
+
+### 🤖 AI, ML & IoT Interests
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,arduino" alt="AI ML and IoT Technologies"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-🏢 Mariox Software
-Role: Frontend Web Development Intern
-Focus: Responsive interfaces and practical web development
+### ⚡ VoltMart
 
-Experience gained
-- Building layouts with HTML, CSS and JavaScript
-- Designing accessible, user-friendly shopping interfaces
-- Organizing product pages and navigation flows
-- Translating a project idea into a working website concept
+**Electronics Delivery Website**
+
+A frontend e-commerce project focused on fast electronics shopping and delivery.
+
+**Features:**
+- Electronics product browsing
+- Shopping cart
+- Responsive design
+- Express delivery concept
+
+**Tech:** HTML, CSS, JavaScript
+
 </td>
+
 <td width="50%" valign="top">
 
-⚡ VoltMart — Internship Project
-Concept: Electronics shopping with express delivery
+### 🌲 Smart Forest Fire Suppression
 
-Project highlights
-- ⏱️ 30-minute delivery concept for small electronics
-- 🚚 1-hour delivery concept for large appliances
-- 🛒 Product browsing, categories and cart experience
-- 📱 Responsive, mobile-friendly frontend design
-Delivery windows describe the project concept, not a live service guarantee.
+**ESP32-Based IoT Project**
+
+A smart fire detection and automatic water suppression system.
+
+**Features:**
+- Temperature monitoring
+- Smoke detection
+- Automatic water pump activation
+- IoT monitoring concept
+
+**Tech:** ESP32, Sensors, IoT
+
 </td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🛒 Jindal Hardware Store
+
+**Hardware E-Commerce Website**
+
+An online platform designed for browsing hardware products.
+
+**Features:**
+- Product categories
+- Search functionality
+- Shopping cart concept
+- Responsive interface
+
+[🌐 Live Website](https://jindalhardwarestore.vercel.app/)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI & ML Learning Projects
+
+**Artificial Intelligence & Machine Learning**
+
+Projects and experiments focused on learning AI and machine learning concepts.
+
+**Areas of Interest:**
+- Python programming
+- Machine learning algorithms
+- Data analysis
+- Intelligent systems
+
+</td>
+
 </tr>
 </table>
 
-🧰 Tech Toolbox
 <div align="center">
 
-Languages & Frontend
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js&theme=dark" alt="Python, Java, C, HTML, CSS, JavaScript" />
-
-
-Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,figma&theme=dark" alt="Git, GitHub, VS Code, Firebase, Figma" />
-
-
-Currently exploring: Machine Learning · IoT · UI/UX · Backend Development
-</div>
-
-🚀 Featured Projects
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🛒 Jindal Hardware Store
-A hardware-store shopping website project with product discovery and an online storefront.
-
-🌐 Live Demo · 💻 Repository
-</td>
-<td width="50%" valign="top">
-
-⚡ VoltMart
-Electronics e-commerce and rapid-delivery website concept developed as my frontend internship project.
-
-Focus: Frontend UI · Product pages · Shopping flow
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-🌲 Smart Forest Fire Suppression
-ESP32-based IoT project exploring temperature/smoke detection and automated water-pump activation.
-
-Focus: ESP32 · Sensors · Automation
-</td>
-<td width="50%" valign="top">
-
-🧰 Jindal Hardware — More Work
-Additional work related to my hardware-store web project.
-
-💻 Explore Repository
-</td>
-</tr>
-</table>
-
-<div align="center">
-<a href="https://github.com/parasjindal921-sketch?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="View all repositories" /></a>
-</div>
-
-📈 My GitHub Dashboard
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=parasjindal921-sketch&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=818CF8" alt="Paras GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasjindal921-sketch&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Most used languages in public repositories" />
-
-
-<img src="https://streak-stats.demolab.com?user=parasjindal921-sketch&hide_border=true&background=0D1117&ring=22D3EE&fire=818CF8&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&stroke=0D1117" alt="GitHub contribution streak" />
-
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=parasjindal921-sketch&bg_color=0D1117&color=22D3EE&line=818CF8&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+<a href="https://github.com/parasjindal921-sketch?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="View All Projects"/>
+</a>
 
 </div>
 
-<details>
-<summary><b>✨ A little more about what I'm building</b></summary>
-<br />
+---
 
-I enjoy combining design, development and automation. My projects range from frontend shopping experiences such as VoltMart and Jindal Hardware Store to hardware experiments using ESP32 and sensors. I am continuing to develop my foundation in Java, Python and AI/ML.
-</details>
+## 📊 GitHub Statistics
 
-🤝 Let's Connect
 <div align="center">
 
-<a href="https://github.com/parasjindal921-sketch"><img src="https://img.shields.io/badge/GitHub-Connect-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-<a href="https://jindalhardwarestore.vercel.app/"><img src="https://img.shields.io/badge/Live_Project-Visit-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit live project" /></a>
-💬 “Code. Create. Learn. Repeat.”
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:020617,50:0E7490,100:6366F1" alt="Footer wave" />
+<img src="https://github-readme-stats.vercel.app/api?username=parasjindal921-sketch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FFF&text_color=FFFFFF" width="49%" alt="GitHub Statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasjindal921-sketch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="49%" alt="Most Used Languages"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=parasjindal921-sketch&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=7B2FFF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parasjindal921-sketch&bg_color=0D1117&color=00D9FF&line=7B2FFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
+
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- 🚀 Improve my frontend development skills
+- 🤖 Learn more about Artificial Intelligence and Machine Learning
+- 💻 Build real-world software projects
+- 🌐 Explore full-stack web development
+- 🌲 Develop innovative IoT solutions
+- 📚 Strengthen my Java and Python programming skills
+- 🤝 Collaborate on open-source projects
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/parasjindal921-sketch">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://jindalhardwarestore.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Project-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Project"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Code. Create. Innovate."
+
+**Thanks for visiting my GitHub profile!**
+
+⭐ Explore my repositories and follow my development journey.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
