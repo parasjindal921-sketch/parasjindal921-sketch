@@ -1,202 +1,171 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020024,50:090979,100:00d4ff&height=260&section=header&text=PARAS%20JINDAL&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer%20%E2%9C%A6%20AI%20%26%20ML%20Student%20%E2%9C%A6%20IoT%20Tinkerer&descAlignY=60&descSize=18" width="100%"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=250&section=header&text=PARAS%20JINDAL&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%7C%20AI%20%26%20ML%20Student%20%7C%20IoT%20Explorer&descAlignY=58&descSize=18)
 
-<a href="https://github.com/parasjindal921-sketch">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=%3E+whoami+%E2%86%92+Paras+Jindal;%3E+role+%E2%86%92+Ex-Frontend+Intern+%40+Mariox+Software;%3E+studying+%E2%86%92+BCA+in+AI+%26+ML;%3E+building+%E2%86%92+fast%2C+responsive+web+experiences;%3E+exploring+%E2%86%92+ESP32+%2B+IoT+for+a+greener+planet;%3E+status+%E2%86%92+Learn.+Build.+Innovate.+Repeat." alt="Typing animation"/>
-</a>
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Paras+Jindal+%F0%9F%91%8B;Ex+Frontend+Intern+at+Mariox+Software;BCA+Student+in+AI+%26+ML;I+build+fast+and+responsive+websites;Exploring+IoT+with+ESP32;Learn.+Build.+Innovate.+Repeat.)](https://github.com/parasjindal921-sketch)
 
 ![Followers](https://img.shields.io/github/followers/parasjindal921-sketch?label=Followers&style=for-the-badge&color=00d9ff&labelColor=0d1117)
 ![Profile Views](https://komarev.com/ghpvc/?username=parasjindal921-sketch&label=Profile+Views&color=7b2fff&style=for-the-badge)
-![Repos](https://img.shields.io/badge/Open%20to-Internships%20%26%20Collabs-00d9ff?style=for-the-badge&labelColor=0d1117)
+![Open To](https://img.shields.io/badge/Open%20to-Internships%20%26%20Collabs-2ea44f?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
----
+![line](https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:090979,100:00d4ff&height=2)
 
-## ⚡ Quick Boot Sequence
+## 👨‍💻 About Me
 
 ```js
 const paras = {
   name: "Paras Jindal",
-  degree: "BCA — Artificial Intelligence & Machine Learning",
+  degree: "BCA - Artificial Intelligence & Machine Learning",
   university: "Haridwar University",
-  experience: {
-    company: "Mariox Software",
-    role: "Frontend Web Development Intern",
-    shipped: "VoltMart — rapid electronics delivery storefront"
-  },
-  craft: ["HTML", "CSS", "JavaScript", "Responsive UI"],
+  internship: "Frontend Web Development Intern @ Mariox Software",
+  builds: ["E-commerce websites", "Responsive UIs", "IoT prototypes"],
   levelingUp: ["Java", "Python", "Machine Learning", "Full-Stack"],
-  hardware: ["ESP32", "Sensors", "IoT"],
   motto: "Learn. Build. Innovate. Repeat."
 };
 ```
 
-<table>
-<tr>
-<td width="50%">
+| 🎓 Currently | 🎯 Looking For |
+|---|---|
+| Pursuing **BCA in AI & ML** | Internships and junior developer roles |
+| Learning **Python, Java & ML** | Open-source collaborations |
+| Moving from frontend to **full-stack** | Real-world projects to build |
+| Building an **ESP32 IoT** project | AI + IoT ideas worth solving |
 
-### 🎓 Currently
-- 📚 Pursuing **BCA in AI & ML**
-- 🧠 Diving deeper into **Python + ML**
-- ☕ Strengthening **Java** fundamentals
-- 🌐 Moving from frontend → **full-stack**
-
-</td>
-<td width="50%">
-
-### 🎯 Looking For
-- 💼 Internships & junior dev roles
-- 🤝 Open-source collaborations
-- 🛠️ Real-world projects to build
-- 🌲 IoT + AI ideas worth solving
-
-</td>
-</tr>
-</table>
-
----
+![line](https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:090979,100:00d4ff&height=2)
 
 ## 💼 Experience
 
-<table>
-<tr>
-<td>
+### 🚀 Frontend Web Development Intern — Mariox Software
+🗓️ `Month Year - Month Year` &nbsp;•&nbsp; 💻 Web Development
 
-### 🚀 Frontend Web Development Intern
-**🏢 Mariox Software** &nbsp;|&nbsp; 🗓️ `<Month Year> – <Month Year>` &nbsp;|&nbsp; 💻 Web Development
+I built responsive, user-friendly web interfaces and turned an idea into a working e-commerce frontend.
 
-During my internship I worked on building responsive, user-friendly web interfaces and turned an idea into a working e-commerce frontend.
-
-**What I did**
-- 🌐 Built frontend pages using **HTML, CSS & JavaScript**
+- 🌐 Built pages with **HTML, CSS and JavaScript**
 - 📱 Designed **responsive, mobile-friendly** layouts
-- 🛒 Developed an **e-commerce website concept** end-to-end
-- 🧰 Worked daily in **VS Code, Git & GitHub**
+- 🛒 Developed an **e-commerce website concept** from scratch
+- 🧰 Worked daily with **VS Code, Git and GitHub**
 - 🚀 Delivered the internship project **VoltMart**
 
-</td>
-</tr>
-</table>
-
-### ⚡ Internship Project — VoltMart
-
-> *"Electronics at the speed of need."*
+### ⚡ Internship Project: VoltMart
+> *Electronics at the speed of need.*
 
 | | |
 |---|---|
-| **What** | Electronics shopping & rapid-delivery website |
-| **Concept** | ⏱️ 30-min delivery for small electronics · 🚚 1-hour delivery for large appliances |
-| **Features** | Product categories · Shopping cart UI · Responsive layout · Clean shopping flow |
+| **What** | Electronics shopping and rapid-delivery website |
+| **Concept** | ⏱️ 30-min delivery for small electronics, 🚚 1-hour for large appliances |
+| **Features** | Product categories, shopping cart UI, responsive layout, clean shopping flow |
 | **Stack** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
-<sub>ℹ️ Delivery times describe the project concept, not a live delivery guarantee.</sub>
+<sub>Delivery times describe the project concept, not a live delivery guarantee.</sub>
 
----
+![line](https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:090979,100:00d4ff&height=2)
 
-## 🧪 Featured Projects
+## 🚀 Featured Projects
 
-<div align="center">
+### 🛒 Jindal Hardware Store
+Hardware e-commerce website with product categories, search, cart concept and a responsive interface.
 
-| 🛒 Jindal Hardware Store | ⚡ VoltMart | 🌲 Smart Forest Fire Suppression |
-|:---:|:---:|:---:|
-| Hardware e-commerce website | Express electronics delivery concept | ESP32-based IoT fire detection |
-| Categories · Search · Cart concept · Responsive UI | Browsing · Cart · Express delivery flow | Temp & smoke sensing · Auto water pump |
-| `HTML` `CSS` `JS` | `HTML` `CSS` `JS` | `ESP32` `Sensors` `IoT` |
-| [🌐 **Live Demo**](https://jindalhardwarestore.vercel.app/) · [📂 Code](https://github.com/parasjindal921-sketch/jindalhardwarestore) | 🚧 Internship project | 🚧 In progress |
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Vercel](https://img.shields.io/badge/Hosted%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-</div>
+[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-00D9FF?style=for-the-badge&logoColor=black)](https://jindalhardwarestore.vercel.app/) [![Source](https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/parasjindal921-sketch/jindalhardwarestore)
+
+### ⚡ VoltMart
+Fast electronics delivery storefront built during my internship at Mariox Software.
+
+### 🌲 Smart Forest Fire Suppression
+ESP32-based IoT system with temperature and smoke monitoring that automatically triggers a water pump.
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-00D9FF?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge)
 
 <details>
-<summary><b>🤖 AI & ML Learning Track (click to expand)</b></summary>
-<br/>
+<summary><b>🤖 AI and ML learning track (click to expand)</b></summary>
 
 - 🐍 Python programming fundamentals
 - 📊 Data analysis basics
 - 🧠 Core machine learning algorithms
 - 🤖 Building toward intelligent systems
 
-*New experiments will be added to the repositories as I build them.*
-
 </details>
 
----
+![line](https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:090979,100:00d4ff&height=2)
 
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=python,java,c,js&theme=dark" /><br/><br/>
-
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /><br/><br/>
-
-**Tools & Platforms**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,figma,vercel&theme=dark" /><br/><br/>
-
-**Exploring: AI / ML / IoT**<br/>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,arduino&theme=dark" />
-
-</div>
-
----
-
-## 📊 GitHub Analytics
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=parasjindal921-sketch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FFF&text_color=FFFFFF" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasjindal921-sketch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+**Languages**
 
-<img src="https://streak-stats.demolab.com?user=parasjindal921-sketch&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=7B2FFF&currStreakLabel=00D9FF" />
+![Languages](https://skillicons.dev/icons?i=python,java,c,js&theme=dark)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parasjindal921-sketch&bg_color=0D1117&color=00D9FF&line=7B2FFF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+**Frontend**
+
+![Frontend](https://skillicons.dev/icons?i=html,css,js&theme=dark)
+
+**Tools**
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,firebase,figma,vercel&theme=dark)
+
+**Exploring**
+
+![Exploring](https://skillicons.dev/icons?i=python,tensorflow,arduino&theme=dark)
 
 </div>
 
----
+![line](https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:090979,100:00d4ff&height=2)
 
-## 🗺️ Roadmap
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=parasjindal921-sketch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FFF&text_color=FFFFFF) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parasjindal921-sketch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+
+![Streak](https://streak-stats.demolab.com?user=parasjindal921-sketch&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=7B2FFF&currStreakLabel=00D9FF)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=parasjindal921-sketch&bg_color=0D1117&color=00D9FF&line=7B2FFF&point=FFFFFF&area=true&hide_border=true)
+
+</div>
+
+![line](https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:090979,100:00d4ff&height=2)
+
+## 🗺️ My Journey
 
 ```mermaid
 timeline
     title Paras's Dev Journey
-    Past    : HTML · CSS · JavaScript
-            : Jindal Hardware Store (live)
-    Now     : Frontend Intern @ Mariox Software
-            : VoltMart
-            : BCA — AI & ML
-    Next    : Java + Python mastery
-            : Machine Learning projects
-            : Full-stack development
-    Future  : AI-powered IoT systems
-            : Open-source contributions
+    Past : HTML, CSS, JavaScript
+         : Jindal Hardware Store (live)
+    Now : Frontend Intern at Mariox Software
+        : VoltMart
+        : BCA in AI and ML
+    Next : Java and Python mastery
+         : Machine Learning projects
+         : Full-stack development
+    Future : AI-powered IoT systems
+           : Open-source contributions
 ```
 
----
+## 🎯 Goals
 
-## 🤝 Let's Connect
+- [x] Learn HTML, CSS and JavaScript
+- [x] Complete a frontend internship
+- [x] Deploy a live project
+- [ ] Master Java and Python
+- [ ] Build real ML projects
+- [ ] Become a full-stack developer
+- [ ] Contribute to open source
+
+![line](https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:090979,100:00d4ff&height=2)
+
+## 🤝 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parasjindal921-sketch)
-[![Live Project](https://img.shields.io/badge/Live_Project-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://jindalhardwarestore.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
-
-<br/>
-
-> 💬 *Ask me about* **frontend development · AI/ML basics · ESP32 & IoT projects**
-
-<br/>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parasjindal921-sketch) [![Live Project](https://img.shields.io/badge/Live_Project-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://jindalhardwarestore.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
 
 ### ✨ Code. Create. Innovate. ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=120&section=footer" width="100%"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=120&section=footer)
 
 </div>
